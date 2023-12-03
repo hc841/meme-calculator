@@ -9,7 +9,7 @@ def concatenar_numeros():
 
 # Criar a janela principal
 janela = tk.Tk()
-janela.title("Calculadora de Concatenação")
+janela.title("Calculadora")
 
 # Widgets
 label_num1 = tk.Label(janela, text="Digite o primeiro número:")
