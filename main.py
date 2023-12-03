@@ -5,7 +5,7 @@ def concatenar_numeros():
     num2 = entry_num2.get()
 
     resultado = num1 + num2
-    label_resultado.config(text="Resultado da concatenação: " + resultado)
+    label_resultado.config(text="Resultado da soma: " + resultado)
 
 # Criar a janela principal
 janela = tk.Tk()
